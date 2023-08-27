@@ -22,7 +22,8 @@ De forma tabular podemos ter o entendimento da seguinte forma:
 | MP4, MOV, AVI   | Videos/ |
 | DOCX, PPRT, PDF | Documentos/|
 
-Não limitando a somente os tipos de arquivos citados no exemplo... É isso que ele faz. 
+Não limitando a somente os tipos de arquivos citados no exemplo ele redireciona os arquivos a pasta do computador, pastas e arquivos de instaladores e pastas compactadas permanecem na pasta Downloads porque acredito ser mais adequado mesmo. Para testar as funcinalidades eu criei um ambiente controlado, que foi criar as pastas locais de 
+Downloads, Documentos, Musicas, Video, logo utilizei o diretorio do projeto para os testes, e deu certo também.
 Conclusão, Fiz a logica utilizei de algumas bibliotecas do Python para que tudo funcionasse de acordo, e funciona. Como detalhe final, pensando em que outras pessoas pudessem usar esse
 script em qualquer computador, fiz um Executavel do script que pode ser baixado no link abaixo. =)
 
